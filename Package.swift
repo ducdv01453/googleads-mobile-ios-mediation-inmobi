@@ -28,7 +28,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/InMobi/InMobiSDK-Swift-Package.git",
-      exact: "11.4.0"
+      exact: "11.3.0"
     ),
     .package(
       url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
